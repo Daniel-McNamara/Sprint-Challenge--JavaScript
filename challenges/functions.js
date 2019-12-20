@@ -5,7 +5,7 @@
   * The first two parameters can take any argument (we can pass any value as argument)
   * The last parameter accepts a callback
   * The consume function should return the invocation of cb, passing a and b into cb as arguments
-*/
+*//
 
 
 /* Step 2: Create several functions to callback with consume();
