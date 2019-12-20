@@ -25,7 +25,7 @@
 
 // Explain in your own words why nestedfunction can access the variable internal.
 
-// Explanation: 
+// Explanation: nestedFunction has access to the outer function variables that it is contained within. So because it is a closure it can use the variable 'internal'
 
 
 const external = "I'm outside the function";
